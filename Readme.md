@@ -1,0 +1,2 @@
+## Consolidated Isoform Model Database
+Worldwide there exist a number of high quality molecular isoform databases for the human genome. No two are alike, and each one contains some information that is missing in the others. The most thorough annotation of the human genome could be had by combining the molecular structures in all of these databases. The software contained in this repository is a solution to this challenge, and the consolidated database it produces represents the complete known output of the human genome. 
